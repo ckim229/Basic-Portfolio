@@ -1,0 +1,84 @@
+.main{
+    height: 690px;
+}
+.hangman{
+    margin-top: 20px;
+}
+.rpggame{
+    margin-left: 30px;
+}
+.trivia{
+    margin-top: 20px;
+}
+.rutgers{
+    margin-left: 30px;
+}
+.rps{
+    margin-top: 20px;
+}
+.hangmantext{
+    font-family: serif;
+    text-align: center;
+    font-size: 21px;
+    color:white;
+    background-color: teal;
+    padding-top:17px;
+    padding-bottom:17px;
+    width:285px;
+    position: relative;
+    bottom: 440px;
+}
+.rpgtext{
+    font-family: serif;
+    text-align: center;
+    font-size: 21px;
+    color:white;
+    background-color: teal;
+    padding-top:17px;
+    padding-bottom:17px;
+    width:285px;
+    position: relative;
+    bottom: 495px;
+    left: 315px;
+}
+.triviatext{
+    font-family: serif;
+    text-align: center;
+    font-size: 21px;
+    color:white;
+    background-color: teal;
+    padding-top:17px;
+    padding-bottom:17px;
+    width:285px;
+    position: relative;
+    bottom: 362px;
+}
+.rtstext{
+    font-family: serif;
+    text-align: center;
+    font-size: 21px;
+    color:white;
+    background-color: teal;
+    padding-top:17px;
+    padding-bottom:17px;
+    width:285px;
+    position: relative;
+    bottom: 418px;
+    left: 315px;
+}
+.rpstext{
+    font-family: serif;
+    text-align: center;
+    font-size: 21px;
+    color:white;
+    background-color: teal;
+    padding-top:17px;
+    padding-bottom:17px;
+    width:285px;
+    position: relative;
+    bottom: 285px;
+}
+.sidebar{
+    position: relative;
+    bottom: 690px;
+}

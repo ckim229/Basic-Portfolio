@@ -1,0 +1,61 @@
+body{
+    font-size:15px;
+}
+.contact_break {
+    border-width: 2px;
+    opacity: 0.7;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+.email {
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+.message{
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+.namebox {
+    line-height: 30px;
+    color: gray;
+    padding-left: 5px;
+    font-size:15px;
+}
+.emailbox {
+    line-height: 30px;
+    color: gray;
+    padding-left: 5px;
+    font-size:15px;
+}
+.messagebox{
+    line-height: 30px;
+    color: black;
+    padding-left: 5px;
+    font-size:15px;
+}
+.main{
+    height:550px;
+}
+
+.sidebar{
+    bottom: 550px;
+}
+button{
+    background-color:#4aaaa5;
+    color: white;
+    padding: 10px 30px 10px;
+    text-align: center;
+    font-size: 22px;
+    margin-top: 20px;
+    font-weight: 200;
+    cursor: pointer;
+}
